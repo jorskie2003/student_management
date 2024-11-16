@@ -11,7 +11,7 @@ class AppLayout extends Component
      * 
      * Get the view / contents that represents the component.
      */
-    protected $layout = 'components.layouts.app';
+    
     public function render(): View
     {
         
